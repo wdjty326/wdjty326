@@ -9,8 +9,12 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td>Toothlife</td>
-			<td>2019.07~</td>
+			<td>SOOP CO.</td>
+			<td>2024.10~</td>
+		</tr>
+		<tr>
+			<td>Toonation</td>
+			<td>2019.07~2024.10</td>
 		</tr>
 		<tr>
 			<td>KoreaExport</td>
