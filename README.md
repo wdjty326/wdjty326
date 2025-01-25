@@ -58,7 +58,7 @@
 
 <img src="https://img.shields.io/badge/Preact-673ab8?style=flat-square&logo=Preact&logoColor=white" />
 
-<img src="https://img.shields.io/badge/React-#61dafb?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Electron-2b2e3b?style=flat-square&logo=Electron&logoColor=a0ecfb" />
 
