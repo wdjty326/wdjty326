@@ -58,9 +58,11 @@
 
 <img src="https://img.shields.io/badge/Preact-673ab8?style=flat-square&logo=Preact&logoColor=white" />
 
+<img src="https://img.shields.io/badge/React-#61dafb?style=flat-square&logo=React&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Electron-2b2e3b?style=flat-square&logo=Electron&logoColor=a0ecfb" />
 
-<img src="https://img.shields.io/badge/ReactNative-00d1f7?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white" />
 
 </p>
 
